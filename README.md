@@ -4,7 +4,9 @@
 
 ## Description
 
-This application uses MySQL, Sequelize, and Express to create an API interface to manage Products, Categories, and Tags for an e-commerce marketplace. This has no front end so interactions will take place within either Postman or Insominia to view, update, create, and delete data.
+This application uses MySQL, Sequelize, and Express to create an API interface to manage Products, Categories, and Tags for an e-commerce marketplace. This has no front end so interactions will take place within either Postman or Insomnia to view, update, create, and delete data.
+
+![e-commerce-backend](./assets/images/e-commerce-backend.png)
 
 ## Table of Contents
 
